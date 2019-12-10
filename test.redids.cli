@@ -1,0 +1,4 @@
+HLEN SEQ2000_all_native_snp
+HLEN SEQ2000_all_native_indel
+HGET SEQ2000_all_native_snp chr1_230846012_G_T
+HGET SEQ2000_all_native_indel chr7_100383282_delT_Het
