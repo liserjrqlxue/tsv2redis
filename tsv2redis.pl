@@ -6,7 +6,7 @@ use warnings;
 use Redis::Client;
 use JSON;
 
-$#ARGV<1 and die"$0 hashName tsv keyIndex\n";
+$#ARGV<1 and die"$0 hashName db.tsv keyIndex\n";
 # redis server
 #my$host="192.168.136.114";
 my$host="127.0.0.1";
