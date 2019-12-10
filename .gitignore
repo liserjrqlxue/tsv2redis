@@ -33,3 +33,10 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+# redis
+dump.master.rdb
+dump.slave6380.rdb
+redis
+redis.master.log
+redis.slave6380.log
